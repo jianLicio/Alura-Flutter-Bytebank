@@ -1,8 +1,8 @@
-# bytebank
+# Bytebank
 
-A new Flutter project.
+PROJETO BYTEBANK - CURSO ALURA
 
-## Getting Started
+## INICIANDO
 
 This project is a starting point for a Flutter application.
 
